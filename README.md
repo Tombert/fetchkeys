@@ -14,4 +14,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCnKbfYGsyDL1+FAuVxGbG++ImuO90e8dbnyDAaPsqF
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDTJvV0RvKzywlSe4uySfZz4ol8Vf9N5OgFaMp+VRdCUte6+GnUZ3KZONjHJP/Mv/QTS4HuzapO9cdH9dqico6uQ1sCxCS8pPwp9KWQKreAgG/6w0ShFHDUjMkrGH+omnusy0DDH53ecA/1JxKMucYjQu4ZrzTopyRu6bPLZ93A9LJNv81eyj9hR+IuFnUme40mSYx7C3MbSfoFQm4EOxajf9IwsBt6eCkDBeqzZe6cqmn/ZJfJtZnyL2obLKrTs4cDKE5Add+vl0fOai8d3KdaBJN8q9dRCtU/H2SWE9WVlIUwJ7/h5Xn8TfniU1E6gH7GiOCgeB5fy9rojYsl2s1t
 ```
 
+You can specify as many usernames as you want: 
+`cabal run tombert torvalds`
+
+---------
+
 Not sure this will be useful for anyone, but it was handy for me. 
